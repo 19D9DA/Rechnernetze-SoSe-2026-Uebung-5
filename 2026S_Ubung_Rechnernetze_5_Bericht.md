@@ -1,8 +1,6 @@
-# Rechnernetze 2026-SS - Übungsblatt 04
+# Rechnernetze 2026-SS - Übungsblatt 05
 
 `#19D9DA - s4joregn`
-
-## Aufgabe 1: Protokoll-Header
 
 ## Aufgabe 1: SSH Setup
 
